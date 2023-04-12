@@ -1,0 +1,2 @@
+# nickbot
+prediction system
